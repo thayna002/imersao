@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <!-- adaptação para o celular -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>DevAcademy</title>
+</head>
+<body>
+  <header class="header">
+
+    <h1 class="logo">DevAcademy</h1>
+
+    <button class="menu-toggle" aria-expanded="false" aria-controls="menu">☰</button>
+
+    <nav id="menu" class="menu">
+        <a href="#">Cursos</a>
+        <a href="#">Mentorias</a>
+        <a href="#">Comunidade</a>
+        <a href="#">Entrar</a>
+    </nav>
+
+</header>
+
+    <main>
+        <section class="busca">
+            <input id="search" type="text" placeholder="buscar tecnologia" aria-label="Buscar cursos">
+        </section>
+        <section id="catalogo" class="catalogo">
+            <!-- aqui entram os cards por ts -->
+        </section>
+    </main>
+
+    <script type="module" src="src/js/main.js"></script>
+</body>
+</html>

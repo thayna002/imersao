@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "TypeScript do Zero ao Avançado",
+    "categoria": "Linguagens",
+    "nivel": "Iniciante",
+    "duracao": "8h"
+  },
+  {
+    "titulo": "JavaScript Moderno ES2024",
+    "categoria": "Linguagens",
+    "nivel": "Intermediário",
+    "duracao": "10h"
+  },
+  {
+    "titulo": "CSS Responsivo e Layouts Modernos",
+    "categoria": "Frontend",
+    "nivel": "Iniciante",
+    "duracao": "6h"
+  },
+  {
+    "titulo": "React na Prática",
+    "categoria": "Frontend",
+    "nivel": "Intermediário",
+    "duracao": "12h"
+  },
+  {
+    "titulo": "Node.js e APIs REST",
+    "categoria": "Backend",
+    "nivel": "Intermediário",
+    "duracao": "9h"
+  },
+  {
+    "titulo": "Arquitetura de Software Clean Architecture",
+    "categoria": "Arquitetura",
+    "nivel": "Avançado",
+    "duracao": "14h"
+  },
+  {
+    "titulo": "Docker para Desenvolvedores",
+    "categoria": "DevOps",
+    "nivel": "Intermediário",
+    "duracao": "7h"
+  },
+  {
+    "titulo": "Testes Automatizados com Jest",
+    "categoria": "Qualidade",
+    "nivel": "Intermediário",
+    "duracao": "5h"
+  },
+  {
+    "titulo": "Banco de Dados SQL na Prática",
+    "categoria": "Dados",
+    "nivel": "Iniciante",
+    "duracao": "8h"
+  },
+  {
+    "titulo": "Performance Web e Otimização",
+    "categoria": "Frontend",
+    "nivel": "Avançado",
+    "duracao": "6h"
+  }
+]
