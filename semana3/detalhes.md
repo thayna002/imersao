@@ -20,3 +20,26 @@ PS C:\desenvolvimento\imersao\semana3\aula1> $env:Path = "$env:Path;$npmGlobal"
 PS C:\desenvolvimento\imersao\semana3\aula1> ng version
 
 ng serve --open
+
+1º Estilizar o blog do cliente
+ 
+ 
+2º Desafio: Sistema de Suporte ao Cliente (Help Desk)
+ 
+"Você foi contratado para criar uma ferramenta interna para o time de suporte. 
+
+O sistema deve permitir que o atendente registre o nome do cliente e a dúvida/problema.
+ 
+ 
+Além disso, deve ser possível:
+ 
+Cadastrar um novo ticket.
+ 
+Marcar como Resolvido (Excluir o ticket da lista).
+ 
+Editar as informações caso o atendente tenha digitado algo errado.
+ 
+Mostrar uma mensagem caso não haja nenhum atendimento pendente."
+ 
+Estilizado
+ 
